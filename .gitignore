@@ -1,0 +1,7 @@
+# created by virtualenv automatically
+token.txt
+.venv/
+__pycache__/
+*.db
+.idea/
+.pytest_cache/
